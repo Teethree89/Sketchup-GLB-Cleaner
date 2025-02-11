@@ -14,6 +14,7 @@ This script **automatically cleans** the exported GLB file by **removing the Spe
 ---
 
 ## ✨ Features
+✅ **macOS only (for now)**  
 ✅ **Automatically detects & removes SpecularGlossiness**  
 ✅ **Preserves all other materials, textures, and settings**  
 ✅ **No manual file editing needed**  
